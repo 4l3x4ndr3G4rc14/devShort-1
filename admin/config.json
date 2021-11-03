@@ -6,16 +6,16 @@
     "settings": {
         "name": "devShort shortlink service",
         "author": "The admin",
-        "home_link": "https://github.com/flokX/devShort",
+        "home_link": "https://github.com/4l3x4ndr3G4rc14/DevShort-1",
         "favicon": "assets/icon.png",
         "custom_links": {
-            "devShort wiki": "https://github.com/flokX/devShort/wiki",
-            "devShort author": "https://github.com/flokX"
+            "devShort wiki": "https://github.com/4l3x4ndr3G4rc14/DevShort-1/wiki",
+            "devShort author": "https://github.com4l3x4ndr3G4rc14"
         }
     },
     "shortlinks": {
-        "repo": "https://github.com/flokX/devShort",
-        "wiki": "https://github.com/flokX/devShort/wiki",
-        "author": "https://github.com/flokX"
+        "repo": "https://github.com/4l3x4ndr3G4rc14/DevShort-1,
+        "wiki": "https://github.com/4l3x4ndr3G4rc14/DevShort-1/wiki",
+        "author": "https://github.com/4l3x4ndr3G4rc14"
     }
 }
